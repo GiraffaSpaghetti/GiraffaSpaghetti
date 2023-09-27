@@ -5,7 +5,7 @@
 # Tech Stack
 #
 
-[!(https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
+![image]({https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white})]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
